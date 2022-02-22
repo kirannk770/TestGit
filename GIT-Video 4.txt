@@ -1,0 +1,27 @@
+Version Control System: Every project needs a version control system.
+
+* To store the source code.
+
+V.C.S 
+->CVS
+->SVN
+->GIT
+   -Git Hub
+   -Gerrit
+   -Bitbucket
+   -Git Lab    
+
+-> Commit ID: Every time when developer push the code from local to remote repository then your git will generate the commit ID.
+->Using the commit ID I can see the history of who modified my code.
+->In repository will create branches for project requirements, and then every time will use the branch name and once push the code specify the branch name.
+
+The branch is nothing but a specific folder, it is easy to get the data.
+-Dev
+-Release
+-Bugfix code
+
+Repository: A repository is using for to store the source code.
+
+Create repository in github -> Copy URL which is crated in Git hub -> goto Git bash here -> Git clone past the URL -> 
+
+
